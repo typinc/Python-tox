@@ -1,0 +1,4 @@
+.eggs
+.tox
+/test_venv
+/Test_project.egg-info
